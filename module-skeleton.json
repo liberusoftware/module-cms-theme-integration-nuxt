@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-theme-integration-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-theme-integration",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-theme-integration-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/theme-integration.md",
+  "presentationPlan": "projects/cms/nuxt/theme-integration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
